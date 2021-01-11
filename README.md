@@ -38,5 +38,7 @@
 
 🌱 [WEBCOMPILER-SYSTEM](https://github.com/SE-LAB-IDE/WEBCOMPILER-COMPILER-SYSTEM)
 
-🌱 [WEBCOMPILER](https://github.com/SE-LAB-IDE/WEBCOMPILER-COMPILER-SYSTEM/blob/master/ROOT/README.md)
+🌱 [WEBCOMPILER](https://github.com/SE-LAB-IDE)
+
+🌱 [WEBCOMPILER - daily](https://github.com/SE-LAB-IDE/WEBCOMPILER-COMPILER-SYSTEM/blob/master/ROOT/README.md)
 
